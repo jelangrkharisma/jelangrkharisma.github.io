@@ -27,7 +27,7 @@ hr.separator {
 
 
 /* //////////////////////////////////////////////////////////////    Desktop css */
-@media(min-width:768px){ 
+@media(min-width:981px){ 
 	.wrapper {
 		display: flex;
 	}
@@ -57,11 +57,6 @@ hr.separator {
 	}
 }
 
-@media(min-width:768px){
-	.certification-content{
-		display: flex;
-	}
-}
 
 /* //////////////////////////////////////////////////////////////    Mobile */
 hr {
@@ -72,7 +67,6 @@ hr {
 }
 
 .identity{
-	height: 100vh;
 	padding: 2em;
 	background-color:#ddd;
 	top: 0;
