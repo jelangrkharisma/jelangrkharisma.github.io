@@ -27,7 +27,7 @@ hr.separator {
 
 
 /* //////////////////////////////////////////////////////////////    Desktop css */
-@media(min-width:981px){ 
+@media(min-width:1000px){ 
 	.wrapper {
 		display: flex;
 	}
